@@ -1,0 +1,12 @@
+geopandas
+osmnx
+rasterio
+shapely
+folium
+matplotlib
+pandas
+requests
+notebook
+rasterstats
+seaborn
+scikit-learn
